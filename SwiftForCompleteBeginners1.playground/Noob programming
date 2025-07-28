@@ -1,0 +1,5 @@
+let celsius =  15
+var farenheit = ((celsius * 9) / 5) + 32
+print("The temperature in Celsius is \(celsius)º")
+print("That same temperature in Farenheit is \(farenheit)º")
+
